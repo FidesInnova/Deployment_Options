@@ -35,27 +35,8 @@ FidesInnova sets a new benchmark for security and trust in the evolving landscap
 <strong> Fides Web App:</strong> Designed for service creation and data monetization, it complements the mobile app by offering a robust platform for managing and expanding IoT capabilities.<br>
 
 FidesInnova isn’t just a platform; it’s a holistic ecosystem that empowers users and enhances their IoT experience through innovative technology and seamless integration.
-
-# FidesInnova Repositories 
 #### To access the private repositories, please email info@fidesinnova.io
 
-## A. FidesInnova IoT node 
-### The IoT backend of the FidesInnova includes IoT server, web app, admin web app 
-#### https://github.com/FidesInnova/iot_node_backend_web_app 
+# Deployment Options 
 
-## B. FidesInnova blockchain node
-### The FidesInnova blockchain network includes the validator and general nodes
-#### [https://github.com/FidesInnova/iot_node_evm](https://github.com/FidesInnova/iot_node_evm)
-
-### C. The FidesInnova mobile app
-#### https://github.com/FidesInnova/mobile_app
-
-## D. ZKP-enabled IoT hardware
-### D.1. Zero-Knowledge (zk) MultiSensor
-The zkMultiSensor is an IoT device that contains a thermometer, hygrometer, door sensor, motion detector, and a smart button. It can send data of the data-gathering environment with a ZKP (Zero-Knowledge Proof). It also supports an IoT mesh network protocol to let devices connect to the Internet without direct Internet access.
-#### https://github.com/FidesInnova/hw_fidesinnova_multi_sensor
-
-### D.2. Zero-Knowledge (zk) E-card
-The E-card is an electronic business card to demonstrate the zkIoT functionality. The business card includes temperature and humidity sensors and a smart button.
-#### https://github.com/FidesInnova/hw_fidesinnova_E-card_ZKP
 
