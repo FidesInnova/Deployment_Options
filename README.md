@@ -42,3 +42,22 @@ FidesInnova isn’t just a platform; it’s a holistic ecosystem that empowers u
 <img src="Chart.png">
 </p>
 
+Welcome to the FidesInnova deployment repository! This guide will help you choose the right deployment model for your needs, whether you are setting up a simple IoT server or a fully decentralized system with RPC and Validator services.
+We provide three deployment models, each designed for different levels of complexity and resource requirements. Choose the model that best fits your project.
+
+#### Model A: Single IoT Server Deployment
+Model A is a simple setup with only an IoT Server connecting to the FidesInnova Network. This setup is ideal for lightweight applications where validation and RPC services are handled by the FidesInnova Network.
+
+- **Repository**: Connect the IoT server to the backend web application available in the [FidesInnova IoT Node Backend Web App repository](https://github.com/FidesInnova/iot_node_backend_web_app).
+
+#### Model B: IoT Server with RPC Server
+Model B introduces an RPC Server alongside the IoT Server. The RPC Server acts as an interface to the FidesInnova Network, providing more control over network requests and data interaction.
+
+- **Repository**: To deploy the RPC Server, use the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the **2 - Second Node** section.
+
+#### Model C: Full IoT, RPC, and Validator Setup
+Model C is the most comprehensive deployment model, including an IoT Server, RPC Server, and a Validator node. This setup is suitable for fully decentralized systems requiring local data validation and advanced network interaction.
+
+- **Repository**: Refer to the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the **1 - Main Node (Miner)** section.
+
+
