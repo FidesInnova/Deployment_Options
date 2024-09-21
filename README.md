@@ -53,11 +53,13 @@ Model A is a simple setup with only an IoT Server connecting to the FidesInnova 
 #### Model B: IoT Server with RPC Server
 Model B introduces an RPC Server alongside the IoT Server. The RPC Server acts as an interface to the FidesInnova Network, providing more control over network requests and data interaction.
 
-- **Repository**: To deploy the RPC Server, use the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the **2 - Second Node** section.
+- **Repository**: To deploy the RPC Server, use the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the `2-Second Node` section.
 
 #### Model C: Full IoT, RPC, and Validator Setup
 Model C is the most comprehensive deployment model, including an IoT Server, RPC Server, and a Validator node. This setup is suitable for fully decentralized systems requiring local data validation and advanced network interaction.
 
-- **Repository**: Refer to the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the **1 - Main Node (Miner)** section.
-
+- **Repository**: Refer to the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the `1-Main Node(Miner)` section.
+- 
+# Need Help?
+To access the private repositories, please email us at info@fidesinnova.io
 
