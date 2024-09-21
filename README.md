@@ -38,5 +38,7 @@ FidesInnova isn’t just a platform; it’s a holistic ecosystem that empowers u
 #### To access the private repositories, please email info@fidesinnova.io
 
 # Deployment Options 
-
+<p align="center">
+<img src="Drawing2.png">
+</p>
 
