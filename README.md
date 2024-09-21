@@ -59,7 +59,7 @@ Model B introduces an RPC Server alongside the IoT Server. The RPC Server acts a
 Model C is the most comprehensive deployment model, including an IoT Server, RPC Server, and a Validator node. This setup is suitable for fully decentralized systems requiring local data validation and advanced network interaction.
 
 - **Repository**: Refer to the [FidesInnova IoT Node EVM repository](https://github.com/FidesInnova/iot_node_evm) and follow the instructions for configuring the `1-Main Node(Miner)` section.
-- 
+  
 # Need Help?
 To access the private repositories, please email us at info@fidesinnova.io
 
